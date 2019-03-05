@@ -113,12 +113,7 @@ button#playButton {
   margin-top: 10px;
 }
 
-/*Styles for the Gaming Section*/
-#gamingArea {
-  display: none;
-  width: 80%;
-  margin: 10px auto;
-  font-size: 22.5px;
+/*Styles for the Gaming Section*
 }
 
 .player1Area,
@@ -132,24 +127,9 @@ button#playButton {
   color: white;
 }
 
-#gamingArea img {
-  border: 5px solid #001f75;
-  border-radius: 4px;
-  box-shadow: 0px 0px 10px #001f75;
-  width: 200px;
-  height: 210px;
 }
 
 .player1NameOutput, .player2NameOutput {
   font-weight: bold;
   font-size: 30px;
-}
-
-.disableGamingArea {
-  opacity: 0.3;
-}
-.pig-image img {
-  width: 300px;
-  height: 150px;
-  padding-right: 30px;
 }
