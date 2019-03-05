@@ -111,24 +111,3 @@ button#playButton {
   margin-left: 42%;
   margin-top: 10px;
 }
-
-/*Styles for the Gaming Section*
-}
-
-.player1Area,
-.player2Area {
-  background-color: transparent;
-  border: 2px solid #ddd;
-  border-radius: 4px;
-  padding-bottom: 20px;
-  padding-top: 20px;
-  text-align: center;
-  color: white;
-}
-
-}
-
-.player1NameOutput, .player2NameOutput {
-  font-weight: bold;
-  font-size: 30px;
-}
