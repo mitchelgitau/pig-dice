@@ -14,4 +14,3 @@ Player.prototype.roll = function () {
     if (randomNo === 1) {
         this.turnTotal = 0;
         this.diceRoll = 1;
-        
