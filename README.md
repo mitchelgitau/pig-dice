@@ -1,26 +1,41 @@
-PROJECT NAME
+# PROJECT NAME
 Pig Dice
 
-PROJECT DESCRIPTION
+## PROJECT DESCRIPTION
 Pig Dice is basically a game whereby two players are needed. One player rolls  the dice and holds whenever he wishes and passes the dice to the other player who does the same thing. Whoever reaches to 100 points first gets to win the game.
 
-AUTHOR'S INFORMATION
+## AUTHOR'S INFORMATION
 Contact me on email at mitchelgitau@gmail.com
 
-SETUP INSTRUCTIONS
+## SETUP INSTRUCTIONS
 You are required to:
 <ol>
  <li>Have access to network</li>
  <li>A laptop</li>
  <li>Atom</li>
+ </ol>
 
-BDD
-The project comprises of radios with answers that a user is prompt to check.The questions are awarded 5 scores each.The project 
+## BDD
+<ol>
+ <li>The players fill in their Names</li>
+ <li>The players click the start Button</li>
+ <li>Player one rolls the dice</li>
+ <li>If the dice rolls to one player 2 takes over</li>
+ <li>If not he continues to roll</li>
+ <li>If player one decides to pass over the dice to player 2 he clicks on the hold Button</li>
+ <li>Player 2 rolls  the dice</li>
+ <li>If the dice rolls to one player 1 takes over</li>
+ <li>Whoever gets to 100 points first is the winner</li>
 
-TECHNOLOGIES USED
-1.HTML -HTML enhanced for web apps! 2.ATOM EDITOR - text editor. 3.CSS - great UI for modern web apps. 4.JAVASCRIPT - evented for the backend. 5.JQUERY - for great effects.
+## TECHNOLOGIES USED
+<ol>
+<li>HTML -HTML enhanced for web apps!</li>
+<li>ATOM EDITOR - text editor.<li>
+<li>CSS - great UI for modern web apps.</li>
+<li>JAVASCRIPT - evented for the backend.</li>
+ <li>JQUERY - for great effects.</li>
 
-LICENSE
+## LICENSE
 MIT License
 
 Copyright (c) [year] [Mitchel Gitau]
